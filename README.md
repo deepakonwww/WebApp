@@ -1,15 +1,13 @@
-https://github.com/deepakonwww/WebApp# WebApp
-WebApp with Entity Framework Repository
+# Welcome to Git!
 
-
-git commit -m "DC Add Project files"
-git remote -v
-git remote add origin <URL>
-git push -f --set-upstream origin master
-
+To Upload local files to the online Git Repo, use following commands:
 
 git init
+
 git add .
+
 git commit -m "DC Add Project files"
-git remote add origin <git@github.com:project/my-new-project.git>
+
+git remote add origin <git@github.com:deepak/my-new-project.git>
+
 git push -u -f origin master
